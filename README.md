@@ -1,9 +1,3 @@
-# curriculum-databases-projects-template
-
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
-
-
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
@@ -63,11 +57,13 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Veterinary PostgreSQL Database <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+# 
 
-**[your_project__name]** is a...
+The Veterinary PostgreSQL Database Management System is a system designed to manage the data and records of a veterinary clinic. The system is designed to store and manage data related to animals, their owners, appointments, treatments, and medical histories. 
+
+**Veterinary PostgreSQL Database** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -100,11 +96,12 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+Features:
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- Animal Records: A database of animal records that stores information such as the animal's name, breed, age, gender, and owner information.
+- Owner Records: A database of owner records that stores information such as the owner's name, address, phone number, and email address.
+- Appointment Scheduling: A calendar that allows clinic staff to schedule appointments for animals and track upcoming appointments.
+- Treatment and Medical History Records: A database of treatment and medical history records that stores information such as the treatment type, date, and cost.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
