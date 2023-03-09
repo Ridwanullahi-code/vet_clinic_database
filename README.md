@@ -91,14 +91,21 @@ Install [Relational Database]((https://computer.howstuffworks.com/question599.ht
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
-
+## 👥 Authors 
 
 👤 **Ajayi Ridwan**
 
 - GitHub: [@Ridwanullahi-code](https://github.com/Ridwanullahi-code)
 - Twitter: [@Ridwanullahi22](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ajayi-ridwan/)
+
+👤 **Iptisam Mukadam**
+
+- GitHub: [@iptisam](https://github.com/Iptysam)
+
+- Twitter: [@twitter](https://twitter.com/IptisamMukadam)
+
+- LinkedIn: [@linkedin](https://www.linkedin.com/in/iptisam-mukadam)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
