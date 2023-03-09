@@ -72,6 +72,7 @@ In order to run this project you need:
 
 ### Setup
 Clone this repository to your desired folder:
+
 ```sh
   git clone https://github.com/Ridwanullahi-code/vet_clinic_database.git
 ```
@@ -79,6 +80,7 @@ or
 ```sh
   git clone git@github.com:Ridwanullahi-code/vet_clinic_database.git
 ```
+
 ### Install
 Install [Relational Database]((https://computer.howstuffworks.com/question599.htm) ) Called **Postgresql**
 
@@ -114,14 +116,9 @@ Install [Relational Database]((https://computer.howstuffworks.com/question599.ht
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- **Create examination, surge👤 **Iptisam Mukadam**
-
-- GitHub: [@iptisam](https://github.com/Iptysam)
-
-- Twitter: [@twitter](https://twitter.com/IptisamMukadam)
-
-- LinkedIn: [@linkedin](https://www.linkedin.com/in/iptisam-mukadam)ry, diagnosis tables**
+- **Create examination, surgery, diagnosis tables**
 - **Add more records to the tables**
 - **Add some constraints to tables**
 
