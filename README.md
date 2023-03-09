@@ -1,3 +1,12 @@
+## Getting Started
+
+This repository includes files with plain SQL that can be used to recreate a database:
+
+- Use [schema.sql](./schema.sql) to create all tables.
+- Use [data.sql](./data.sql) to populate tables with sample data.
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+
+<a name="readme-top"></a>
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -18,10 +27,9 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
+# 📖 Veterinary PostgreSQL Database <a name="about-project"></a>
 
-# 📖 Vet Clinic Database <a name="about-project"></a>
-
-**Veterinary Clinic Database** Kepp track of the services of a veterinarian, and facilities for the medical treatment, examination, surgery, diagnosis, grooming, general health care, and observation of domestic animals and birds.
+The Veterinary PostgreSQL Database Management System is a system designed to manage the data and records of a veterinary clinic. The system is designed to store and manage data related to animals, their owners, appointments, treatments, and medical histories. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -39,11 +47,12 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Create Database called **Vet Clinic** to store animals records
-- Create Table called **animals** and insert records into table
-- Make queries to fetch animals records
-- Screenshot the queries output, saved it in new folder
+Features:
 
+- Animal Records: A database of animal records that stores information such as the animal's name, breed, age, gender, and owner information.
+- Owner Records: A database of owner records that stores information such as the owner's name, address, phone number, and email address.
+- Appointment Scheduling: A calendar that allows clinic staff to schedule appointments for animals and track upcoming appointments.
+- Treatment and Medical History Records: A database of treatment and medical history records that stores information such as the treatment type, date, and cost.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
