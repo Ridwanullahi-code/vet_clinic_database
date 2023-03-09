@@ -91,7 +91,7 @@ Install [Relational Database]((https://computer.howstuffworks.com/question599.ht
 
 <!-- AUTHORS -->
 
-## 👥 Authors <
+## 👥 Authors 
 
 👤 **Ajayi Ridwan**
 
@@ -106,12 +106,6 @@ Install [Relational Database]((https://computer.howstuffworks.com/question599.ht
 - Twitter: [@twitter](https://twitter.com/IptisamMukadam)
 
 - LinkedIn: [@linkedin](https://www.linkedin.com/in/iptisam-mukadam)
-
-👤 **Ajayi Ridwan**
-
-- GitHub: [@Ridwanullahi-code](https://github.com/Ridwanullahi-code)
-- Twitter: [@Ridwanullahi22](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ajayi-ridwan/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
