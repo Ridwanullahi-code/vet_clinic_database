@@ -100,6 +100,14 @@ Install [Relational Database]((https://computer.howstuffworks.com/question599.ht
 - Twitter: [@Ridwanullahi22](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ajayi-ridwan/)
 
+👤 **Iptisam Mukadam**
+
+- GitHub: [@iptisam](https://github.com/Iptysam)
+
+- Twitter: [@twitter](https://twitter.com/IptisamMukadam)
+
+- LinkedIn: [@linkedin](https://www.linkedin.com/in/iptisam-mukadam)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -107,7 +115,13 @@ Install [Relational Database]((https://computer.howstuffworks.com/question599.ht
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- **Create examination, surgery, diagnosis tables**
+- **Create examination, surge👤 **Iptisam Mukadam**
+
+- GitHub: [@iptisam](https://github.com/Iptysam)
+
+- Twitter: [@twitter](https://twitter.com/IptisamMukadam)
+
+- LinkedIn: [@linkedin](https://www.linkedin.com/in/iptisam-mukadam)ry, diagnosis tables**
 - **Add more records to the tables**
 - **Add some constraints to tables**
 
